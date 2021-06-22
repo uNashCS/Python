@@ -1,0 +1,24 @@
+
+██████╗░██╗░░░██╗████████╗██╗░░██╗░█████╗░███╗░░██╗
+██╔══██╗╚██╗░██╔╝╚══██╔══╝██║░░██║██╔══██╗████╗░██║
+██████╔╝░╚████╔╝░░░░██║░░░███████║██║░░██║██╔██╗██║
+██╔═══╝░░░╚██╔╝░░░░░██║░░░██╔══██║██║░░██║██║╚████║
+██║░░░░░░░░██║░░░░░░██║░░░██║░░██║╚█████╔╝██║░╚███║
+╚═╝░░░░░░░░╚═╝░░░░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═╝░░╚══╝
+
+# Inicio del Curso de Python 22/06/2021
+
+# Requerimientos previos para la programación de python.
+
+# Fundamentos y sintaxis básica de languaje
+# programación orientada a objetos.
+# BBDD
+# Trabajo de gráficos y contenidos.
+# Ejercicios prácticos.
+
+# Guido Van Rossum - CREADOR DEL LENGUAJE Python
+# Lenguaje sencillo, claro, fácil de aprender.
+# Lenguaje de programación de muy alto nivel.
+# Tipado fuerte, distingue de una variable INT y String.
+# Tipado dinámico, se decalro en tiempos de ejecuación
+# Herencia múltiple, encapsulación, polimorfismo, interfaces.
