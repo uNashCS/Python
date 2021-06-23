@@ -1,0 +1,92 @@
+
+░█████╗░██████╗░██╗░░░██╗███╗░░██╗████████╗███████╗░██████╗
+██╔══██╗██╔══██╗██║░░░██║████╗░██║╚══██╔══╝██╔════╝██╔════╝
+███████║██████╔╝██║░░░██║██╔██╗██║░░░██║░░░█████╗░░╚█████╗░
+██╔══██║██╔═══╝░██║░░░██║██║╚████║░░░██║░░░██╔══╝░░░╚═══██╗
+██║░░██║██║░░░░░╚██████╔╝██║░╚███║░░░██║░░░███████╗██████╔╝
+╚═╝░░╚═╝╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═════╝░
+
+██████╗░██╗░░░██╗████████╗██╗░░██╗░█████╗░███╗░░██╗
+██╔══██╗╚██╗░██╔╝╚══██╔══╝██║░░██║██╔══██╗████╗░██║
+██████╔╝░╚████╔╝░░░░██║░░░███████║██║░░██║██╔██╗██║
+██╔═══╝░░░╚██╔╝░░░░░██║░░░██╔══██║██║░░██║██║╚████║
+██║░░░░░░░░██║░░░░░░██║░░░██║░░██║╚█████╔╝██║░╚███║
+╚═╝░░░░░░░░╚═╝░░░░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═╝░░╚══╝
+############################    BIENVENDIOS A LOS APUNTES DE PYTHON ############################
+
+
+
+1.0 --------------- Tipos de datos ---------------
+Tipo de variable lo establece el contenido
+Toda variable es un objeto
+
+    1.1 Números enteros
+        Enteros (int)
+        Coma flotante (float)
+        Complejos
+    1.2. Textos
+    1.3.Booleanos
+        True
+        False
+
+2.0 --------------- Operadores ---------------
+    2.1. Aritméticos
+        +   Suma
+        -   Resta
+        *   Multiplicación
+        %   Módulo
+        //  División entera
+        /   Divisón
+        **  Exponente
+
+    2.2. Comparación
+        ==  Igual que
+        !=  Diferente que
+        <   Menor que
+        >   Mayor que
+        >=  Mayor igual que
+        <=  Menor igual que
+
+    3.3. Lógicos
+        AND
+        OR
+        NOT
+
+    3.4. Asignación         Valores a variables
+        =   Igual
+        +=  Incremento
+        -=  Decremento
+        *=
+        /=
+        %=
+        **=
+        //=
+    3.5. Especiales
+        IS
+        IS NOT
+        IN
+        NOT IN
+
+--------------- Sitaxis ---------------
+type(o)             Devuelve la clase de la variable
+""" -- """          Crea un string con tres saldos de línea
+                    
+3.0 --------------- Funciones ---------------
+    ¿Qué es?
+
+        -Conjunto de líneas de código agrupadas que funcionan como una unidad realizando una tarea específica.
+        -Devuelve valores.
+        -Pueden tener parámetros.
+        -Se les demonina métodos, siempre y cuando esté en una clase.
+        -Predefinidas son las proporcionadas como print
+        -Propias son las creadas por el programador para uso en el futuro
+
+    Utilidad
+
+        Reutilización de código
+
+    Sintaxis 
+
+        def nombre_funcion():       () zona parámetros
+            Instrucciones           identación
+            return(opcional)        Devolución de valores
