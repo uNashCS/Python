@@ -92,3 +92,41 @@ type(o)             Devuelve la clase de la variable
             return(opcional)        Devolución de valores
     Parámetro y argumento
         Observar el archivo 05-parametros.py Para mayor información.
+
+    --------------- Listas ---------------
+    Lista permite guardar en la memoria del ordenador varios valores y funciona como una unidad.
+
+    En Python permite guardar diferentes tipos de valores no como otros lenguajes, y a más de que permiten expandir
+
+        nombreLista  = [elem1,elem2,elem3,....]
+        nombreLista2 = [True,4,elem3,....]
+
+
+    Índice es la posición del elemento
+        nombreLista[0]
+        elem1
+    Sintaxis
+        [:]                     Para imprimir una lsita completa
+        [1:]                    Para imprimir una lista desde el índice indicado hasta el final
+        [:4]                    Imprime una lista desde el inicio hasta el índice indicado
+        [3:6]                   Imprime una porción de la lista
+
+        "Pepe" in nombreLista   Busca si hay el elemnto en la lista y retorna True o False
+        lista.index("Juan")     Retorna el número de índice del elemento indicado
+
+        .remove("Juan")         Elimina el elemento señalado
+        .pop()                  Elimina el último elemento de la lista
+
+        .append                 Agrega un elemento al final de la lista
+        .insert(index,object)   Agrega un elemento en el índice señalado
+        .extend(lista)          Agrega otra lista al final de la indicada
+        .reverse(lista)         Invertir una lista
+        .count(elem1)           Devuelve las veces que se repite el elemento
+
+        lista1+lista2           Suma Listas
+        lista1*3                Repite la lista
+
+        len(lista)              Devuelve la longitud de la lista
+
+        
+
