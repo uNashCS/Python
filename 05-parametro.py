@@ -30,12 +30,12 @@ print(suma_return(12, 12))
 
 # Ejemplo de función reutilizable con función FOR
 
+num=7
 def multiplicacion(num1,num2):
     multi=num1*num2
     return multi
 
 for i in range(10):
-    num=7
     res=multiplicacion(num, i+1)
     print("La multiplicación de :",multiplicacion(num, 1)," x ", i+1, "es:")
     print(res)
