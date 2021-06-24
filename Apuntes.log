@@ -90,3 +90,5 @@ type(o)             Devuelve la clase de la variable
         def nombre_funcion():       () zona parámetros
             Instrucciones           identación
             return(opcional)        Devolución de valores
+    Parámetro y argumento
+        Observar el archivo 05-parametros.py Para mayor información.
