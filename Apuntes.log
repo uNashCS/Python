@@ -127,6 +127,39 @@ type(o)             Devuelve la clase de la variable
         lista1*3                Repite la lista
 
         len(lista)              Devuelve la longitud de la lista
+    --------------- Tuplas ---------------
+    Son listas inmutables con el tiempo, no se pueden modificar
+    Se puede extraer porciones, como nueva tupla
+    Si permiten comprobar elementos dentro de la tupla
+    Más rápidas, como proceso y optimizaciones, menos espacio en memoria
+    Formatean en string
+    Como clave de diccionario
 
-        
+    Sintaxis
 
+        Van en (), o se pueden omitir
+            muTupla=(elem1,elem2,elem3)
+
+        Para impresión usar []
+
+            list=list(tupla)            Cambia de tupla a lista
+            tupla=tuple(list)           Cmabia de lista a tupla
+            .count()                    Cuenta el elemento indicado dentro de la tupla
+            "1" in tupla                Cuenta el elemento indicado dentro de la tupla devuelve TRUE or False
+            n1,n2,n3=tupla(elem1,elem2,elm3)    Desepaqueta tupla a las variables
+
+    --------------- Diccionarios ---------------
+    Asigan clave:valor para los elementos alamacenados
+    Clave única-Almacena lsita, tuplas, otros Diccionarios
+    El orden no se toma encuenta, ya que se busca por clave
+
+    Sintaxis
+        miDicionario={clave:valor,clave2:valor}
+
+        del miDicionario[]              Elmina un clave:valor
+        miDicionario[""]=""             Agrega una clave:valor
+        .keys()                         Devuelve las claves
+        .values()                       Devuelve los valores
+        len(miDicionario)               Devielve la longitud
+
+        Observar el archivo 08-sb-diccionarios.py Para mayor información
