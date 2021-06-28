@@ -70,6 +70,9 @@ Toda variable es un objeto
 --------------- Sitaxis ---------------
 type(o)             Devuelve la clase de la variable
 """ -- """          Crea un string con tres saldos de línea
+input()             Almacenar variables introducidas
+int(str)            Transforma a números en el caso pertinente
+print()             Imprime en consola
                     
 3.0 --------------- Funciones ---------------
     ¿Qué es?
@@ -163,3 +166,14 @@ type(o)             Devuelve la clase de la variable
         len(miDicionario)               Devielve la longitud
 
         Observar el archivo 08-sb-diccionarios.py Para mayor información
+
+
+--------------- Condicionales ---------------
+Son bloques de código que cotiene una o muchas líneas de código, evaluando si se cumple las condicones son verdades o falsas.
+
+    --------------- if ---------------
+
+    if():
+        /*código*/
+    else:
+        /*código*/
