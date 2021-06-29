@@ -73,6 +73,8 @@ type(o)             Devuelve la clase de la variable
 input()             Almacenar variables introducidas
 int(str)            Transforma a números en el caso pertinente
 print()             Imprime en consola
+.lower()            La cadena string a minísculas
+.upper()            La cadena string en mayúsculas
                     
 3.0 --------------- Funciones ---------------
     ¿Qué es?
@@ -177,3 +179,7 @@ Son bloques de código que cotiene una o muchas líneas de código, evaluando si
         /*código*/
     else:
         /*código*/
+    
+    Uso de operadores de Comparación
+
+    if (0<edda<100)
