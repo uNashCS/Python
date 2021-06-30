@@ -183,3 +183,25 @@ Son bloques de código que cotiene una o muchas líneas de código, evaluando si
     Uso de operadores de Comparación
 
     if (0<edda<100)
+
+    --------------- BUCLES ---------------
+    Repetir una o varias líneas de código varias veces.
+    En ocaciones no se sabrá la cantidad que se repita el código
+
+    Dispone de dos bloques:
+        Determinado
+            Solo leyendo el código sabesmos cuantas veces se repetirá
+        Indeterminado
+            Cuando es dependiente de otros factores
+
+            --------------- for ---------------
+            palabra reservada for
+            palabra reservada in
+            y el rango: lista, tupla, rango, entre otros
+
+            for i in range():
+                #código
+            
+
+
+
